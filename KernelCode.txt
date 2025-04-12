@@ -1,0 +1,7 @@
+以下是本模块的核心代码，如果失去这些代码，模块将无法运行。
+Magisk模块安装命令
+magisk --install-module
+APatch安装命令
+apd module install
+KernelSU安装命令
+ksud module install
